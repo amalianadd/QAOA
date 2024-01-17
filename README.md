@@ -1,6 +1,6 @@
 ## *Quantum Approximate Optimization Algorithm (QAOA)*
 
-Quantum Approximate Optimization Algorithm (QAOA) merupakan algoritma hibrida yang menggabungkan operasi kuantum dengan teknik optimisasi klasikal menyelesaikan masalah optimisasi kombinatorial. 
+*Quantum Approximate Optimization Algorithm* (QAOA) merupakan algoritma hibrida yang menggabungkan operasi kuantum dengan teknik optimisasi klasikal menyelesaikan masalah optimisasi kombinatorial. 
 
 ### Komponen Teknis Utama
 
